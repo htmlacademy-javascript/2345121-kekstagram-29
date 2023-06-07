@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Владислав Шкряба](https://up.htmlacademy.ru/javascript/29/user/2345121).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Мошкин] (https://up.htmlacademy.ru/profession/fullstack/6/javascript/29/user/2088751).
 
 ---
 
